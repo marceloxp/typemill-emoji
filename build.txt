@@ -1,0 +1,3 @@
+/resources/images/readme-output.png
+/resources/images
+/resources
